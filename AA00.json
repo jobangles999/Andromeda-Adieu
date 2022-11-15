@@ -2,17 +2,73 @@
    "markers" : [
       {
          "pin" : "green",
-         "text" : "This is a sample marker!\nIt spans two lines of text.",
-         "x" : -104.625,
-         "y" : -0.8125,
-         "z" : -151.906
+         "text" : "Waypoint 02\nCyuefoo LC-D d12-0\nManifest Destiny - The Western Meridian",
+         "x" : -33742.96875,
+         "y" : 53.5,
+         "z" : 26.46875
       },
-      {
-         "pin" : "carrier",
-         "text" : "This is a sample marker too!",
-         "x" : -247.812,
-         "y" : -43.8438,
-         "z" : 64.0312
+	  {
+         "pin" : "green",
+         "text" : "Waypoint 03\nFraufooe AA-A h8\nAngustia Trinity",
+         "x" :    -25665.65625,
+         "y" :   -1217.375,
+         "z" : 1732.34375
+      },
+	  {
+         "pin" : "green",
+         "text" : "Waypoint 04\nSmaidiae IZ-M d8-7\nRings Shore",
+         "x" :  -17751.03125,
+         "y" :  -41.75,
+         "z" : -9289.46875
+      },
+	  {
+         "pin" : "green",
+         "text" : "Waypoint 05\nHIP 117078\nPZ Cassiopeiae",
+         "x" :  -16367.90625,
+         "y" :  46.96875,
+         "z" : -7773.8125
+      },
+  	  {
+         "pin" : "green",
+         "text" : "Waypoint 06\nHypo Aeb WK-H b51-0\nPZ Cassiopeiae",
+         "x" :  -10022.9375,
+         "y" :  19.6875,
+         "z" : -7643.59375
+      },
+  	  {
+         "pin" : "green",
+         "text" : "Waypoint 07\nEafots LZ-H b10-0\nFormidine Rift Abandoned Settlements",
+         "x" :   -5800.84375,
+         "y" :  115.59375,
+         "z" : -5961.1875
+      },
+  	  {
+         "pin" : "green",
+         "text" : "Waypoint 08\nHeart Sector IR-V b2-0\nFarsight Expedition Base",
+         "x" : -5303.78125,
+         "y" :  130.34375,
+         "z" : -5305.40625
+      },
+  	  {
+         "pin" : "green",
+         "text" : "Waypoint 09\nNGC 7822 Sector FG-Y e2",
+         "x" :  -2454.65625,
+         "y" :  282.84375,
+         "z" : -1316.53125
+      },
+  	  {
+         "pin" : "green",
+         "text" : "Waypoint 10\nHD 49368\nHades Edge",
+         "x" :  757.46875,
+         "y" :  67.84375,
+         "z" : -1424.375
+      },
+  	  {
+         "pin" : "green",
+         "text" : "Waypoint 11\nMintaka",
+         "x" :  270.625,
+         "y" :  -204.34375,
+         "z" : -603.78125
       }
    ]
 }
