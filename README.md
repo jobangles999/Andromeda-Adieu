@@ -1,2 +1,2 @@
-# Andromeda-Adieu
-Holding Repo for Andromeda Adieu files
+# andromeda_adieu
+Repository for AA files
